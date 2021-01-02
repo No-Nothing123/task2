@@ -3,7 +3,7 @@
 # 動作環境
     OS: Ubuntu 20.04.1 LTS
 # 内容について
-    ROSにあるturtlesimパッケージを使って、動かされて亀の位置を出力します。
+    ROSにあるturtlesimパッケージを使って、亀を操作しながら亀の位置を出力します。
 # 実行方法
 #### terminalを開きます。terminal1にします。
     $ roscore  
