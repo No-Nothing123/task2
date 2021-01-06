@@ -1,10 +1,15 @@
 # ロボットシステム学　課題2
 
+# 概要
+      ROSにあるturtlesimパッケージを使って、亀を操作しながら亀の位置を出力します。
 # 動作環境
-    OS: Ubuntu 20.04.1 LTS
-# 内容について
-    ROSにあるturtlesimパッケージを使って、亀を操作しながら亀の位置を出力します。
-# 実行方法
+    Ubuntu 20.04.1 LTS
+    ROS noetic
+# デモ動画
+#### 実際に動いた様子は以下のURLで確認できます。
+https://youtu.be/tYohe3zaFcU
+
+# 使用方法
 #### terminalを開きます。terminal1にします。
     $ roscore  
     
@@ -22,6 +27,5 @@
     $ rosrun task2 turtle_subscriber
     
     # 起動すると、亀の位置のx,y軸座標が表示されます。またterminal3に戻って、亀を操作しながら、位置座標も一々表示されます。
-# 動画
-#### 実際に動いた様子は以下のURLで確認できます。
-https://youtu.be/tYohe3zaFcU
+# ライセンス
+    MIT
