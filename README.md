@@ -8,7 +8,10 @@
 # デモ動画
 #### 実際に動いた様子は以下のURLで確認できます。
 https://youtu.be/tYohe3zaFcU
-
+# インストール方法
+#### /catkin_ws/srcの下で以下のコードを実行し、パッケージをダウンロードします。
+      git clone https://github.com/No-Nothing123/task2.git
+      
 # 使用方法
 #### terminalを開きます。terminal1にします。
     $ roscore  
@@ -28,4 +31,4 @@ https://youtu.be/tYohe3zaFcU
     
     # 起動すると、亀の位置のx,y軸座標が表示されます。またterminal3に戻って、亀を操作しながら、位置座標も一々表示されます。
 # ライセンス
-MIT License
+   MIT Licenseを適用しています。
