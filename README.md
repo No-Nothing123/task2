@@ -28,4 +28,4 @@ https://youtu.be/tYohe3zaFcU
     
     # 起動すると、亀の位置のx,y軸座標が表示されます。またterminal3に戻って、亀を操作しながら、位置座標も一々表示されます。
 # ライセンス
-    COPYING
+MIT License
